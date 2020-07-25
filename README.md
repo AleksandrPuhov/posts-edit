@@ -1,8 +1,8 @@
-# Posts Edit
+# Posts List
 
 ## Installation
 
-Clone this repo to your local machine using https://github.com/AleksandrPuhov/posts-edit.git
+Clone this repo to your local machine using https://github.com/AleksandrPuhov/posts-list.git
 
 Use the npm package manager.
 
